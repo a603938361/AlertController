@@ -16,7 +16,6 @@
 		5C5F72CD20CE45CD00B3C5A9 /* TestAlertTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C5F72CC20CE45CD00B3C5A9 /* TestAlertTests.m */; };
 		5C5F72D820CE45CD00B3C5A9 /* TestAlertUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C5F72D720CE45CD00B3C5A9 /* TestAlertUITests.m */; };
 		5C5F72E720CE45E600B3C5A9 /* AlertViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C5F72E620CE45E600B3C5A9 /* AlertViewController.m */; };
-		5C80D5442170873D00457E25 /* ShareSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5C80D5432170873D00457E25 /* ShareSDK.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,7 +54,6 @@
 		5C5F72D920CE45CD00B3C5A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C5F72E520CE45E600B3C5A9 /* AlertViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AlertViewController.h; sourceTree = "<group>"; };
 		5C5F72E620CE45E600B3C5A9 /* AlertViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlertViewController.m; sourceTree = "<group>"; };
-		5C80D5432170873D00457E25 /* ShareSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ShareSDK.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +61,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5C80D5442170873D00457E25 /* ShareSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -107,7 +104,6 @@
 		5C5F72B220CE45CC00B3C5A9 /* TestAlert */ = {
 			isa = PBXGroup;
 			children = (
-				5C80D5432170873D00457E25 /* ShareSDK.framework */,
 				5C5F72B320CE45CC00B3C5A9 /* AppDelegate.h */,
 				5C5F72B420CE45CC00B3C5A9 /* AppDelegate.m */,
 				5C5F72B620CE45CC00B3C5A9 /* ViewController.h */,
