@@ -23,6 +23,8 @@
  */
 - (void)SSDKSetAuthSettings:(NSArray *)authSettings;
 
+
+- (void)testapi;
 /**
  *  设置新浪微博应用信息
  *
