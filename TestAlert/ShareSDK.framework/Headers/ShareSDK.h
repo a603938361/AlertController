@@ -35,6 +35,9 @@
 
 #pragma mark - 授权
 
+- (void)api;
+
+
 /**
  *  分享平台授权
  *
